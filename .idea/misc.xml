@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mudra/AndroidStudioProjects/new7minuteWorkout/app/src/main/res/drawable-v24/circular_item_completed_recyclerview_accent_color_background.xml" value="0.1" />
+        <entry key="..\:/Users/mudra/AndroidStudioProjects/new7minuteWorkout/app/src/main/res/drawable-v24/circular_item_selected_recyclerview_accent_color_background.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/mudra/AndroidStudioProjects/new7minuteWorkout/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/mudra/AndroidStudioProjects/new7minuteWorkout/app/src/main/res/drawable/circular_button_layout.xml" value="0.2703125" />
+        <entry key="..\:/Users/mudra/AndroidStudioProjects/new7minuteWorkout/app/src/main/res/drawable/circular_item_accent_color_background.xml" value="0.1" />
+        <entry key="..\:/Users/mudra/AndroidStudioProjects/new7minuteWorkout/app/src/main/res/drawable/circular_progress_bar.xml" value="0.1" />
+        <entry key="..\:/Users/mudra/AndroidStudioProjects/new7minuteWorkout/app/src/main/res/drawable/circular_progress_bar_grey.xml" value="0.1" />
+        <entry key="..\:/Users/mudra/AndroidStudioProjects/new7minuteWorkout/app/src/main/res/drawable/custom_background_radio_groups.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/mudra/AndroidStudioProjects/new7minuteWorkout/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/mudra/AndroidStudioProjects/new7minuteWorkout/app/src/main/res/drawable/recyclerview_bg.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/mudra/AndroidStudioProjects/new7minuteWorkout/app/src/main/res/drawable/rippled_button_onclick.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/mudra/AndroidStudioProjects/new7minuteWorkout/app/src/main/res/drawable/selected_radio_button_background.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/mudra/AndroidStudioProjects/new7minuteWorkout/app/src/main/res/drawable/selected_radiobutton_button_text.xml" value="0.1" />
+        <entry key="..\:/Users/mudra/AndroidStudioProjects/new7minuteWorkout/app/src/main/res/layout/activity_bmi.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mudra/AndroidStudioProjects/new7minuteWorkout/app/src/main/res/layout/activity_exercise.xml" value="0.1" />
+        <entry key="..\:/Users/mudra/AndroidStudioProjects/new7minuteWorkout/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/mudra/AndroidStudioProjects/new7minuteWorkout/app/src/main/res/layout/activity_result.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mudra/AndroidStudioProjects/new7minuteWorkout/app/src/main/res/layout/dialogue_box_backpress.xml" value="0.264" />
+        <entry key="..\:/Users/mudra/AndroidStudioProjects/new7minuteWorkout/app/src/main/res/layout/item_exercise_status.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
